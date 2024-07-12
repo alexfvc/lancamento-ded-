@@ -20,11 +20,13 @@ Atualizar a planilha planejamento.xlsx:
 A planilha deve ter os dados na mesma forma que é esperada pelo diário.
  
   Exemplo: 
-___________________________________________________________________________________________________________________________________________
-|EtapadaMatrícula   | Turma              | Disciplina  | turno         | escola     | Bimestre     | Data            | Conteúdo Lecionado | 
-|2°ano              | 2° EM REG (2024)   | FÍSICA      | Manhã         | esoola X   | 2º BIMESTRE  | 25/05/2024      | física térmica     |
-|3°ano              | 2° EM REG (2024)   | FÍSICA      | Noite         | escola Y   | 2º BIMESTRE  | 26/06/2024      | física elétrica    |
-___________________________________________________________________________________________________________________________________________
+
+    ____________________________________________________________________________________________________________________________________
+    |EtapadaMatrícula   | Turma              | Disciplina  | turno    | escola     | Bimestre     | Data          | Conteúdo Lecionado |
+    |2°ano              | 2° EM REG (2024)   | FÍSICA      | Manhã    | esoola X   | 2º BIMESTRE  | 25/05/2024    | física térmica     |
+    |3°ano              | 2° EM REG (2024)   | FÍSICA      | Noite    | escola Y   | 2º BIMESTRE  | 26/06/2024    | física elétrica    |
+     ___________________________________________________________________________________________________________________________________
+
 
 No exemplo acima, seria lançada uma aula no segundo bimestre, dia 25/05/2024, para a turma 2º REG 1, com conteúdo de física térmica e tambem
 seria lançada uma aula no segundo bimestre, dia 26/06/2024, para a turma 3º REG 4, com conteúdo de física elétrica.
